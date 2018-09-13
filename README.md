@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/brun1/async-go-server.svg?branch=master)](https://travis-ci.org/brun1/async-go-server)
+
 # async-go-server
 Simple async server using golang.
 
