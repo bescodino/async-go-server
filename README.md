@@ -12,7 +12,7 @@ This package is very small, it aims to simplify the use of an asynchronous serve
 Creation of a simple asynchronous HTTP server:
 
 ```
-import "github.com/brun1/async-server-go"
+import "github.com/brun1/async-go-server"
 
 server := server.Init(":0")
 
